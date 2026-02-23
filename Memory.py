@@ -293,4 +293,4 @@ for note in notes:
 # buttom_t_add.clicked.connect(add_tag)
 # buttom_t_search.clicked.connect(search_tags)
 app.exec_()
-#затем запрограммируй демо-версию функционала
+
